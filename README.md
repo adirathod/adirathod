@@ -1,5 +1,54 @@
-# 💫 About Me:
-# Hi there, I'm Aditya Rathod 👋<br><br>I am a **Golang Backend Engineer** and an M.Tech CSE alumnus from **NITK Surathkal**. I specialize in building high-performance concurrent pipelines, designing scalable microservices, and optimizing database architectures. <br><br>---<br><br>* 🔭 **I’m currently working on:** Building scalable distributed backend pipelines, robust gRPC/REST microservices, and contributing to the secure digital legacy platform at Infobell IT.<br>* 👯 **I’m looking to collaborate on:** High-performance Go frameworks, open-source distributed systems, and backend optimization challenges.<br>* 🤝 **I’m looking for help with:** Mastering advanced cloud-native infrastructure, Kubernetes orchestrations, and deep-dive system design patterns.<br>* 🌱 **I’m currently learning:** Advanced DevOps automation pipelines, Kafka event-driven patterns, and exploring cutting-edge security engineering models.<br>* 💬 **Ask me about:** Golang concurrency mechanics, database optimization, Data Structures & Algorithms (550+ problems solved!), or leading sports teams.<br>* ⚡ **Fun fact:** I used to captain my State Cricket Team and vice-captain the State Baseball Team—and I once optimized a legacy sequential loop into a concurrent Go handler, slashing a 5.27-minute simulation down to just 80 milliseconds!<br><br>---<br><br>### 🛠️ Quick Tech Stack<br>* **Languages:** Go (Golang), C++, SQL, Python<br>* **Frameworks & Architecture:** REST API, gRPC, GraphQL, Microservices<br>* **Databases & MQ:** PostgreSQL, MySQL, Redis, MongoDB, Kafka<br><br>📫 **Let's Connect:** [adityarathod354@gmail.com](mailto:adityarathod354@gmail.com) | [LinkedIn](https://linkedin.com) | [Portfolio](https://aditya-rathod-portfolio.vercel.app/)
+## 💫 About Me
+
+Hi, I'm **Aditya Rathod** 👋
+
+I'm a **Golang Backend Engineer** and an **M.Tech CSE graduate from NITK Surathkal**.
+
+I enjoy building **high-performance concurrent systems**, **scalable microservices**, and **database-driven backend applications**. I'm passionate about solving complex engineering problems and writing clean, efficient, and maintainable code.
+
+---
+
+- 🔭 **Currently working on:** Scalable distributed backend pipelines, robust gRPC/REST microservices, and contributing to the secure digital legacy platform at **Infobell IT**.
+
+- 👯 **Looking to collaborate on:** Open-source Go projects, distributed systems, and backend optimization.
+
+- 🤝 **Looking for help with:** Cloud-native infrastructure, Kubernetes, and advanced system design.
+
+- 🌱 **Currently learning:** Kubernetes, Kafka, DevOps automation, and cloud architecture.
+
+- 💬 **Ask me about:** Golang, Backend Development, DSA (550+ problems solved), Databases, and System Design.
+
+- ⚡ **Fun fact:** I captained my State Cricket Team and served as Vice-Captain of my State Baseball Team. I also optimized a legacy Go workflow from **5.27 minutes to just 80 milliseconds** using concurrency.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Go (Golang)
+- C++
+- Python
+- SQL
+
+**Backend**
+- REST API
+- gRPC
+- GraphQL
+- Microservices
+
+**Databases & Messaging**
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+- Kafka
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email:** adityarathod354@gmail.com
+- 🌐 **Portfolio:** https://aditya-rathod-portfolio.vercel.app
 
 
 ## 🌐 Socials:
